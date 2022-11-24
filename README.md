@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashwitha Rao
 - 👀 I’m interested in New Technology.
 - 🌱 I’m currently working as Full Stack Developer at Aroha Group
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I Like coding.
 - 📫 ashwitharao366@gmail.com
 
 <!---
